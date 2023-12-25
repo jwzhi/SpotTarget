@@ -35,8 +35,7 @@ sampler = dgl.dataloading.as_edge_prediction_sampler(
     )
 ```
 
-For using it separately, check RFC_low_degree_sampler.md
-
+For using it separately, check [RFC_low_degree_sampler.md](./RFC_low_degree_sampler.md)
 
 ## Test-time Usage
 
