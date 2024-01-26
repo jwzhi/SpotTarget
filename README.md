@@ -43,6 +43,7 @@ For using it separately, check [RFC_low_degree_sampler.md](./RFC_low_degree_samp
 python3 leakage_check.py
 ```
 
+Due to the size of the graph, The E-commerce graph used in paper are available upon request. 
 # Question & troubleshooting
 
 If you encounter any problems running the code, pls feel free to contact Jing Zhu (jingzhuu@umich.edu)
